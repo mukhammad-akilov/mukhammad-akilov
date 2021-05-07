@@ -2,7 +2,7 @@
 
 ## Tell me a little about yourself
 
-Well hi. I'm Mukhammad Akilov, a  front end develope based in ~~sunny~~ Dushanbe (Tajikistan). Currentyly I work in Humo bank as a frontend developer. Previously I worked in Evolet Healthcare and MegaFon Tajikistan as a fullstack developer. I build a variety of things for a variety of people using fancy tools, frameworks, platforms and libraries including:
+Well hi. I'm Mukhammad Akilov, a  front end develope based in Dushanbe (Tajikistan). Currentyly I work in Humo bank as a frontend developer. Previously I worked in Evolet Healthcare and MegaFon Tajikistan as a Full-Stack Developer. I build a variety of things for a variety of people using fancy tools, frameworks, platforms and libraries including:
 
  - React (Hooks/Redux/Contenct APi)
  - JavaScript (ES6+)
