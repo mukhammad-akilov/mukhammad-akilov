@@ -36,7 +36,6 @@ There are my last public projects:
 - Website for Humo bank (React) (https://intiqol.humo.tj/)
 - Website for Humo bank (WordPress) (https://job.humo.tj/)
 - Website for Humo bank (React) (https://id.humo.tj/)
-- Website for Humo bank (React) (https://id.humo.tj/)
 - Website for Makolli (WordPress) (https://sanam.makolli.tj/)
 - Website for Norden Seal (Next.js) (http://nordenseal.ca/)
 - Websie for Spitamen Insurance (WordPress) (https://spitameninsurance.com/)
