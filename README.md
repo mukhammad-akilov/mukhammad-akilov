@@ -2,7 +2,7 @@
 
 ## Tell me a little about yourself
 
-Well hi. I'm Mukhammad Akilov, a Front-End Developer based in Dushanbe (Tajikistan). Currentyly I work in Humo bank as a frontend developer. Previously I worked in Evolet Healthcare and MegaFon Tajikistan as a Full-Stack Developer. I build a variety of things for a variety of people using fancy tools, frameworks, platforms and libraries including:
+Well hi. I'm Mukhammad Akilov, a Front-End Developer based in Dushanbe (Tajikistan). Currentyly I work in [Humo Bank](https://humo.tj/) as a Front-End Developer. Previously I worked in Evolet Healthcare and MegaFon Tajikistan as a Full-Stack Developer. I build a variety of things for a variety of people using fancy tools, frameworks, platforms and libraries including:
 
  - React (Hooks/Redux/Contenct APi)
  - JavaScript (ES6+)
@@ -33,9 +33,9 @@ Sure I do have projects, very glad you asked! 😉
 There are my last public projects:
 - Website for MegaFon Tajikistan (React) (https://perevod.megafon.tj/)
 - Website for MegaFon Tajikistan (React) (https://lahza.megafon.tj/)
-- Website for Humo bank (React) (https://intiqol.humo.tj/)
-- Website for Humo bank (WordPress) (https://job.humo.tj/)
-- Website for Humo bank (React) (https://id.humo.tj/)
+- Website for Humo Bank (React) (https://intiqol.humo.tj/)
+- Website for Humo Bank (WordPress) (https://job.humo.tj/)
+- Website for Humo Bank (React) (https://id.humo.tj/)
 - Website for Makolli (WordPress) (https://sanam.makolli.tj/)
 - Website for Norden Seal (Next.js) (http://nordenseal.ca/)
 - Websie for Spitamen Insurance (WordPress) (https://spitameninsurance.com/)
@@ -48,5 +48,6 @@ There are my last public projects:
 - via [Telegram @Akilov95](https://t.me/Akilov95)
 - via [LinkedIn](https://www.linkedin.com/in/mukhammad-akilov-6604a0159/)
 - via [Facebook](https://facebook.com/mukhammad.akilov.95)
+- via [Head Hunter](https://hh.ru/resume/37a6c65aff05af36d80039ed1f4f51386b464d)
 
 Thank you for your attention!
