@@ -32,12 +32,13 @@ Sure I do have projects, very glad you asked! 😉
 
 There are my last public projects:
 - Website for MegaFon Tajikistan (React) (https://perevod.megafon.tj/)
-- Website for MegaFon Tajikistan (React) (https://lahza.megafon.tj/)
+- Webiste for SABR (Intellectual Property Consulting Office (WordPress) (www.sabr.tj)
+- Website for Arctic Star Windows (Next.js SSR) (www.arcticstarwindows.com)
+- Website for MegaFon Tajikistan (React) (www.lahza.megafon.tj)
 - Website for Humo Bank (React) (https://intiqol.humo.tj/)
 - Website for Humo Bank (WordPress) (https://job.humo.tj/)
 - Website for Humo Bank (React) (https://id.humo.tj/)
 - Website for Makolli (WordPress) (https://sanam.makolli.tj/)
-- Website for Norden Seal (Next.js) (http://nordenseal.ca/)
 - Websie for Spitamen Insurance (WordPress) (https://spitameninsurance.com/)
 - Android app Makolli (Flutter) (https://play.google.com/store/apps/details?id=tj.rpokupka)
 - iOS app for Makolli (Flutter) [App's link](https://apps.apple.com/ca/app/%D1%80%D0%B0%D0%B7%D1%83%D0%BC%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%BA%D1%83%D0%BF%D0%BA%D0%B0/id1526797310)
