@@ -6,6 +6,7 @@ Well hi. I'm Mukhammad Akilov, a Front-End Developer based in Dushanbe (Tajikist
 
  - React (Hooks/Redux/Contenct APi)
  - JavaScript (ES6+)
+ - TypeScript
  - Next.js
  - Webpack
  - PWA
