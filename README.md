@@ -32,7 +32,7 @@ Also I have some backend and mobile development (basic and intermediate levels) 
 Sure I do have projects, very glad you asked! 😉
 
 There are my last public projects:
-- Website for Christmas Stories (LottieFiles animations, Redux, Light/Dark mode, Background music and snow ❄️) (https://christmas-stories.vercel.app) 
+- Website for Christmas Stories 🎄☀️🌙🎵❄️🎅🏻 (LottieFiles animations, Redux, Light/Dark mode, Background music and snow falling) (https://christmas-stories.vercel.app) 
 - Website for Barki Tojik payment (React/Next.js/TypeScript) (https://barq.tj, https://barq.humo.tj)
 - Website for MegaFon Tajikistan (React) (https://perevod.megafon.tj/)
 - Webiste for SABR (Intellectual Property Consulting Office (WordPress) (www.sabr.tj)
