@@ -48,7 +48,7 @@ There are my last public projects:
 - Android app Cattle Scan (Flutter) (https://play.google.com/store/apps/details?id=ca.cattlescan&hl=en_US&gl=US)
 - iOS app Cattle Scan (Flutter) [App's link](https://apps.apple.com/by/app/cattle-scan/id1562113240#?platform=iphone)
 - ... and other internal prjects
-## How to contact you?
+## How to contact you? 📧
 - via [Telegram @Akilov95](https://t.me/Akilov95)
 - via [LinkedIn](https://www.linkedin.com/in/mukhammad-akilov-6604a0159/)
 - via [Facebook](https://facebook.com/mukhammad.akilov.95)
