@@ -18,14 +18,14 @@ Well hi. I'm Mukhammad Akilov, a Front-End Developer based in Dushanbe (Tajikist
  - ...and other funny Front-End tools
  
 ## What else do you do? 🤔
-Also I have some backend and mobile development (basic and intermediate levels) skills. For example, I know and made some funny things with the following technologies:
+Also I have some backend and mobile development (basic or entry level) skills. For example, I know and made some funny things with the following technologies:
  - WordPress
  - Flutter, Dart
  - SSR
  - MySQL
  - SQL
  - PHP 
- - Golang (basic level)
+ - Golang
  
 ## Do you have any projects? 🤔
 
