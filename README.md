@@ -10,6 +10,7 @@ Well hi. I'm Mukhammad Akilov, a Front-End Developer based in Dushanbe (Tajikist
  - TypeScript
  - Next.js
  - Webpack
+ - Unit and Integration Testing using Jest and React Testing Library
  - PWA
  - SPA
  - Git
