@@ -9,7 +9,7 @@ Well hi. I'm Mukhammad Akilov, a Front-End Developer based in Dushanbe (Tajikist
  - HTML, CSS (Flexbox, Grid Layout, variables), SCSS
  - TypeScript
  - Next.js
- - Webpack
+ - Webpack, CRA, CRACO
  - Unit and Integration Testing using Jest and React Testing Library
  - PWA
  - SPA
