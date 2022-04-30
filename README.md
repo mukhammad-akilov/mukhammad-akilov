@@ -4,17 +4,17 @@
 
 Well hi. I'm Mukhammad Akilov, a Front-End Developer based in Dushanbe (Tajikistan). Currentyly I work in [Humo Bank](https://humo.tj/) as a Front-End Developer. Previously I worked in Evolet Healthcare and MegaFon Tajikistan as a Full-Stack Developer. I build a variety of things for a variety of people using languages, fancy tools, frameworks, platforms and libraries including:
 
- - React (Hooks/Redux/Redux Toolkit/Context API)
- - JavaScript (ES6+, DOM API)
  - HTML, CSS (Flexbox, Grid Layout, variables), SCSS
+ - Bootstrap, Material UI, Ant Design, Tailwind CSS
+ - JavaScript (ES6+, DOM API)
  - TypeScript
+ - React (Hooks/Redux/Redux Toolkit/Context API)
  - Next.js
  - Webpack, CRA, CRACO
  - Unit and Integration Testing using Jest and React Testing Library
  - PWA
- - SPA
+ - SPA (Single Page Applications)
  - Git
- - Bootstrap, Material UI, Ant Design
  - RESTful API
  - ...and other funny Front-End tools
  
