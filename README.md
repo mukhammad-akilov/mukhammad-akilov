@@ -9,11 +9,11 @@ Well hi. I'm Mukhammad Akilov, a Front-End Developer based in Dushanbe (Tajikist
  - JavaScript (ES6+, DOM API)
  - TypeScript
  - React (Hooks/Redux/Redux Toolkit/Context API)
- - Next.js
+ - Next.js (SSR, SSG)
  - Webpack, CRA, CRACO
  - Unit and Integration Testing using Jest and React Testing Library
  - PWA
- - SPA (Single Page Applications)
+ - SPA (Single Page Applications), SSR (Server Side Rendering), SSG (Static Site Generators)
  - Git
  - RESTful API
  - ...and other funny Front-End tools
