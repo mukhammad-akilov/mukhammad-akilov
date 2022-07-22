@@ -4,7 +4,7 @@
 
 Well hi. I'm Mukhammad Akilov, a Front-End Developer based in Dushanbe (Tajikistan). Currentyly I work in [Humo Bank](https://humo.tj/) as a Front-End Developer. Previously I worked in Evolet Healthcare and MegaFon Tajikistan as a Full-Stack Developer. I build a variety of things for a variety of people using languages, fancy tools, frameworks, platforms and libraries including:
 
- - HTML, CSS (Flexbox, Grid Layout, variables), SCSS
+ - HTML, CSS (Flexbox, Grid Layout, variables), SCSS, CSS Modules, Styled Components
  - Bootstrap, Material UI, Ant Design, Tailwind CSS
  - JavaScript (ES6+, DOM API)
  - TypeScript
