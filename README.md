@@ -14,8 +14,8 @@ Well hi. I'm Mukhammad Akilov, a Front-End Developer based in Dushanbe (Tajikist
  - Unit and Integration Testing using Jest and React Testing Library
  - PWA
  - SPA (Single Page Applications), SSR (Server Side Rendering), SSG (Static Site Generators)
- - Git
- - RESTful API
+ - Git, GitHub
+ - RESTful API, GraphQL, Apollo GraphQL
  - ...and other funny Front-End tools
  
 ## What else do you do? 🤔
