@@ -2,7 +2,7 @@
 
 ## Tell me a little about yourself 🙂
 
-Well hi. I'm Mukhammad Akilov, a Middle Front-End Developer based in Dushanbe (Tajikistan). Currentyly I work in [Epam Systems](https://epam.com/) as a Middle Front-End Developer in Tashkent (Uzbekistan). Previously I worked in Evolet Healthcare and MegaFon Tajikistan as a Full-Stack Developer and in  [Humo Bank](https://humo.tj/) as a Lead Front-End Developer. I build a variety of things for a variety of people using languages, fancy tools, frameworks, platforms and libraries including:
+Well hi. I'm Mukhammad Akilov, a Front-End Developer based in Dushanbe (Tajikistan). Currentyly I work in [Epam Systems](https://epam.com/) as a Front-End Developer in Tashkent (Uzbekistan). Previously I worked in Evolet Healthcare and MegaFon Tajikistan as a Full-Stack Developer and in  [Humo Bank](https://humo.tj/) as a Lead Front-End Developer. I build a variety of things for a variety of people using languages, fancy tools, frameworks, platforms and libraries including:
 
  - HTML, CSS (Flexbox, Grid Layout, variables), SCSS, CSS Modules, Styled Components
  - Bootstrap, Material UI, Ant Design, Tailwind CSS
