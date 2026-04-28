@@ -2,9 +2,9 @@
 
 ## Tell me a little about yourself 🙂
 
-Hi, I’m Mukhammad Akilov, a Senior Software Engineer based in Tashkent, Uzbekistan 🇺🇿.
+Hi, I’m Mukhammad Akilov, a Senior Software Engineer.
 
-Currently, I work at EPAM Systems as a Senior Software Engineer. Previously, I worked at Evolet Healthcare and MegaFon Tajikistan as a Full-Stack Developer, and at Humo Bank as a Lead Front-End Developer.
+Currently, I work as a Senior Software Engineer. Previously, I worked at Evolet Healthcare and MegaFon Tajikistan as a Full-Stack Developer, and at Humo Bank as a Lead Front-End Developer.
 
 I build a variety of products for different clients using modern languages, tools, frameworks, platforms, and libraries incluiding:
 
